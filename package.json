@@ -1,0 +1,23 @@
+{
+  "name": "multimedios-lab12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "type": "module",
+  "devDependencies": {
+    "@rolldown/binding-win32-x64-msvc": "^1.0.2",
+    "@rollup/rollup-win32-x64-msvc": "^4.60.4",
+    "vite": "^8.0.14",
+    "vitest": "^4.1.7"
+  }
+}
